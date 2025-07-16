@@ -5,5 +5,5 @@
 - telefone:(88) 996119797
 - habilidades : informatica,organizaçâo,proativo e atençâo aos detalhes
 - Formaçâo: Ensino Mèdio Completo
-- Cursos: Programador Web,tecnologia da informaçâo,desenvolvedor full stack
+- Cursos: Programador Web,tecnologia da informaçâo,desenvolvedor full stack e operador de supermercados
 - Experiencia Profissional: Jovem Aprendiz
